@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Remade Minesweeper",
+  "main": "Minesweeper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulDavamani/MineSweeper.git"
+  },
+  "author": "Rahul Davamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulDavamani/MineSweeper/issues"
+  },
+  "homepage": "https://github.com/RahulDavamani/MineSweeper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
