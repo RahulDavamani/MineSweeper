@@ -1,0 +1,82 @@
+body{
+   background: blue;
+}
+
+h1{
+   background: #272727;
+   margin: 0 auto;
+   width: 600px;
+   text-align: center;
+   color: steelblue;
+   box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+   padding: 10px;
+}
+
+h2{
+   text-align: center;
+   background: #272727;
+   color: steelblue;
+   padding: 0px 15%;
+   font-size: 1.7em;
+   font-weight: bold;
+}
+
+button{
+   float: left;
+   border: none;
+   background: none;
+   height: 100%;
+   color: steelblue;
+   letter-spacing: 1px;
+   font-size: inherit;
+   outline: none;
+}
+
+button:hover{
+   background: blue;
+}
+
+
+table{
+   margin: 0 auto;
+}
+
+td{
+   display:inline-block;
+   margin-right: 2px;
+   width: 60px;
+   height: 60px;
+   text-align: center;
+   border: 1px solid black;
+   font-size: 50px;
+   background: gray;
+   text-indent: -9999px;
+}
+
+.open{
+   background: white;
+   text-indent: 0px;
+}
+
+.close{
+   background: gray;
+   text-indent: -9999px;
+}
+
+.rtClick{
+  text-indent: 0px;
+  color: red;
+}
+
+.mine{
+   text-indent: 0px;
+}
+
+#timer{
+   float: right;
+   font-weight: normal;
+}
+
+#result{
+   color: #272727;
+}
